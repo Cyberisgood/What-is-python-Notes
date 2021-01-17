@@ -1,4 +1,4 @@
-# What-is-python-Notes
+# My Python Notes
 
 What i know about python ?
 
